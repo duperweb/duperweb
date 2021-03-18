@@ -1,6 +1,6 @@
 Here are some of my skills
 
-- 🔭 I’m currently working on ...#DOCWEB, #DUPROSTUDIO, DUPERWEB #HMIB
+- 🔭 I’m currently working on ...# DOCWEB, # DUPROSTUDIO, #DUPERWEB, #HMIB
 - 🌱 I’m currently learning ...Django Python
 - 👯 I’m looking to collaborate on ... ReactJS
 - 🤔 I’m looking for help with ...Desktop App
@@ -9,4 +9,3 @@ I speak french, spanish, haitian creole and english. Right now, I'm learning por
 - 📫 How to reach me: ...duperweb@gmail.com, duperoyd@gmail.com
 - 😄 Pronouns: ...duperoy
 - ⚡ Fun fact: ...I speak 4 different languages
--->
