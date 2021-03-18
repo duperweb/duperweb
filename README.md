@@ -1,6 +1,6 @@
 Here are some of my skills
 
-- 🔭 I’m currently working on ...duproweb
+- 🔭 I’m currently working on ...#DOCWEB, #DUPROSTUDIO, DUPERWEB #HMIB
 - 🌱 I’m currently learning ...Django Python
 - 👯 I’m looking to collaborate on ... ReactJS
 - 🤔 I’m looking for help with ...Desktop App
