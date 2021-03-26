@@ -1,6 +1,5 @@
-![](S:\Studios\Code\Github\duperweb\client\assests\img\1615940196454.jpg)
+![](./client/assests/img/duperweb_1.jpg "title")
 
-# WELCOME TO *DUPERWEB*
 
 ```
  DOCWEB,  DUPROSTUDIO, DUPERWEB, HMIB
@@ -14,3 +13,7 @@
 >- 📫 How to reach me: ...duperweb@gmail.com, duperoyd@gmail.com
 >- 😄 Pronouns: ...duperoy
 >- ⚡ Fun fact: ...I speak 4 different languages
+
+### Bugs
+
+fix the issue for mardown image for github
