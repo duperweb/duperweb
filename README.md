@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 ![](./client/assests/img/duperweb_1.jpg "title")
 =======
 ![](duperweb\client\assests\img\1615940196454.jpg)
->>>>>>> 8cfbb359f788b754411dc59a873b857b34af876c
+
 
 
 ```
