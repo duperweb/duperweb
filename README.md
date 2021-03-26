@@ -6,7 +6,7 @@
 
 
 ```
- DOCWEB,  DUPROSTUDIO, DUPERWEB, HMIB
+ HOME DOCWEB DUPROSTUDIO HMIB
 ```
 >- I’m currently working on ... DOCWEB,  DUPROSTUDIO, DUPERWEB, HMIB
 >- 🌱 I’m currently learning ...Django Python
