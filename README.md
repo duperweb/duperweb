@@ -1,5 +1,7 @@
+![](S:\Studios\Code\Github\duperweb\client\assests\img\1615940196454.jpg)
+
 # WELCOME TO *DUPERWEB*
-- OWNER OF 
+
 ```
  DOCWEB,  DUPROSTUDIO, DUPERWEB, HMIB
 ```
